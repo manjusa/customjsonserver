@@ -1,0 +1,19 @@
+{
+  "employees": [
+    {
+      "employeeid": 1,
+      "fname": "manju",
+      "lname": "s"
+    },
+    {
+      "employeeid": 2,
+      "fname": "new albert",
+      "lname": "dawson"
+    },
+    {
+      "fname": "lawrie",
+      "lname": "warner",
+      "employeeid": 3
+    }
+  ]
+}
